@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Gabriel Costa Ramos, tenho 28 anos e sou natural de Guarujá, São Paulo. Atualmente, estou cursando Tecnologia da Informação na UNIVESP.
+Me chamo Gabriel Costa Ramos, tenho 29 anos e sou natural de Guarujá, São Paulo. Atualmente, estou cursando Tecnologia da Informação na UNIVESP.
 
 ---
 
